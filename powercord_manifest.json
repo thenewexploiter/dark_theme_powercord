@@ -1,0 +1,9 @@
+
+{
+	"name": "dark theme",
+	"description": "is a better dark theme to discord",
+	"author": "nuh#7913",
+	"version": "BETA_1",
+	"license": "thenewexploiter",
+	"theme": "dark.css"
+}
